@@ -72,9 +72,9 @@ npm run dev
 ---
 
 ### 3️⃣ Setup Frontend
-
+(in seperate terminal)
 ```
-in seperate terminal
+
 cd frontend
 npm run dev
 ```
